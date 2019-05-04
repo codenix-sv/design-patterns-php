@@ -1,0 +1,38 @@
+{
+  "name": "codenix-sv/design-patterns-php",
+  "description": "Design patterns in PHP",
+  "keywords": [
+    "php",
+    "design-patterns",
+    "patterns"
+  ],
+  "type": "project",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/codenix-sv/design-patterns-php/issues?state=open",
+    "source": "https://github.com/codenix-sv/design-patterns-php"
+  },
+  "authors": [
+    {
+      "name": "Volodymyr Svyryd",
+      "email": "codenix.sv@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "codenixsv\\Patterns\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "codenixsv\\Patterns\\": "tests/"
+    }
+  }
+}
