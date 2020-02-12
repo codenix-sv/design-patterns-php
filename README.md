@@ -1,5 +1,11 @@
 # Design patterns in PHP
 
+[![Build Status](https://travis-ci.org/codenix-sv/design-patterns-php.svg?branch=master)](https://travis-ci.org/codenix-sv/design-patterns-php)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/codenix-sv/design-patterns-php/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/codenix-sv/design-patterns-php/?branch=master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/29429a3f824e673f144d/maintainability)](https://codeclimate.com/github/codenix-sv/design-patterns-php/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/29429a3f824e673f144d/test_coverage)](https://codeclimate.com/github/codenix-sv/design-patterns-php/test_coverage)
+[![License: MIT](https://img.shields.io/github/license/codenix-sv/design-patterns-php)](https://github.com/codenix-sv/design-patterns-php/blob/master/LICENSE)
+
 The patterns can be structured in different categories.
 
 ### [Creational](src/Creational)
